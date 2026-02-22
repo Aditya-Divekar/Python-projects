@@ -4,7 +4,6 @@ somewords = '''monday apple week ground strict laptop
 mobile headphone pen keyboard mouse
 dog cat cricket notebook ground race'''
 
-# Better split (removes extra spaces automatically)
 somewords = somewords.split()
 
 word = random.choice(somewords)
