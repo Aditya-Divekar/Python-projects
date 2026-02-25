@@ -8,7 +8,7 @@ def countdown(t):
         time.sleep(1)
         t -= 1
 
-    print("Fire in the hole!!")
+    print("boom!!")
 
 t = input("Enter the time in seconds: ")
 
